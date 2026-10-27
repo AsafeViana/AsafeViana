@@ -9,7 +9,7 @@ Me chamo Asafe Silva Viana, tenho 20 anos e sou natural do Maranhão. Concluí o
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
-### 💻 Linguagens e Tecnologias
+## 💻 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -71,8 +71,8 @@ Me chamo Asafe Silva Viana, tenho 20 anos e sou natural do Maranhão. Concluí o
 <br/>
 <br/>
 
-### 📊 Estatísticas
----
+## 📊 Estatísticas
+
 
 <br/>
 
