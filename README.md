@@ -80,3 +80,11 @@ Me chamo Asafe Silva Viana, tenho 20 anos e sou natural do Maranhão. Concluí o
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:addde6,50:00FFFF,100:00FFFF&section=footer&animation=twinkling" />
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AsafeViana/AsafeViana/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AsafeViana/AsafeViana/output/snake-light.svg" />
+    <img alt="Snake comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/AsafeViana/AsafeViana/output/snake-dark.svg" />
+  </picture>
+</p>
