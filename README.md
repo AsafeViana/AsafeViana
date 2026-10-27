@@ -77,14 +77,15 @@ Me chamo Asafe Silva Viana, tenho 20 anos e sou natural do Maranhão. Concluí o
 ![](https://streak-stats.demolab.com/?user=asafeviana&theme=tokyonight&hide_border=false&locale=pt-br)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=asafeviana&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&custom_title=Tecnologias)
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:addde6,50:00FFFF,100:00FFFF&section=footer&animation=twinkling" />
-</p>
-
+## 🐍 A cobrinha das contribuições
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AsafeViana/AsafeViana/output/snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AsafeViana/AsafeViana/output/snake-light.svg" />
     <img alt="Snake comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/AsafeViana/AsafeViana/output/snake-dark.svg" />
   </picture>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:addde6,50:00FFFF,100:00FFFF&section=footer&animation=twinkling" />
 </p>
