@@ -7,7 +7,7 @@ Me chamo Asafe Silva Viana, tenho 20 anos e sou natural do Maranhão. Concluí o
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/675473807879700490) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/asafee.sv?xtok=NGczYjNjbTRiazF1) <!-- AINDA VOU COLOCAR MEU LINKEDIN[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jo%C3%A3o-gomes-781408388/) -->
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
 ### 💻 Linguagens e Tecnologias
 
@@ -72,10 +72,20 @@ Me chamo Asafe Silva Viana, tenho 20 anos e sou natural do Maranhão. Concluí o
 <br/>
 
 ### 📊 Estatísticas
+---
 
-![](https://github-readme-stats.vercel.app/api?username=asafeviana&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&locale=pt-br)<br/>
-![](https://streak-stats.demolab.com/?user=asafeviana&theme=tokyonight&hide_border=false&locale=pt-br)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=asafeviana&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&custom_title=Tecnologias)
+<br/>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=asafeviana&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&locale=pt-br&include_all_commits=true&count_private=true" alt="GitHub Stats" height="195" /><br/>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img src="https://streak-stats.demolab.com?user=asafeviana&theme=tokyonight-duo&locale=pt-br&border_radius=10&hide_border=true" alt="GitHub Streak" height="195" /></a>
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=asafeviana&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&langs_count=8&custom_title=Tecnologias" alt="Top Languages" height="195" />
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
 ## 🐍 A cobrinha das contribuições
 <p align="center">
